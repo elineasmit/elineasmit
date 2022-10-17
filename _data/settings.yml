@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 about:
-- {name: 'About me', title: 'Postdoctoral Researcher', department: 'Department of Linguistics', institution: 'University of Konstanz', email: 'eline.smit@uni-konstanz.de', image: 'assets/img/elinesmit.jpg'}
+- {name: 'About me', title: 'Postdoctoral Researcher', department: 'Department of Linguistics', institution: 'University of Konstanz', email: 'eline.smit@uni-konstanz.de', image: 'assets/img/pianoeline.jpg'}
 
 media:
 - {name: 'Interview', url: 'vector-calculus'}
