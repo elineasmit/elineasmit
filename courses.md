@@ -1,4 +1,4 @@
 ---
-layout: media
-title: "Media"
+layout: courses
+title: "Courses"
 ---
