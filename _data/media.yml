@@ -2,11 +2,17 @@ featured:
 - {name: 'What makes a song sound happy? It depends on your culture, study finds - The Guardian', url: 'https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds'}
 - {name: 'Culture influences whether a musical note is perceived as happy or sad, study finds - The Independent', url: 'https://uk.news.yahoo.com/culture-influences-whether-musical-note-095731132.html?guccounter=1&guce_referrer=aHR0cHM6Ly9wbG9zLmFsdG1ldHJpYy5jb20vZGV0YWlscy8xMzA0MjM2NTMvbmV3cw&guce_referrer_sig=AQAAALKBQdKSoD9tUyEi1YhwoAwtuQBTFva5yXsaAgr6P5Ho1yjmYeVUNZnkGwlzhuZqsQDnNq5vEf9Od7Bf6RgV0ypgpRCd-JWU7MQbDKN9rMBgycsLNKdNhgVxlzNBZQjB3xWUCtBD8KmaIXlP8rlhLeBgNt--CAVVWsUy68a9ztyU'}
 - {name: 'Major Chords Sound Happy, But Only To People Who Are Used To Western Music - Forbes', url: 'https://www.forbes.com/sites/evaamsen/2022/06/29/major-chords-sound-happy-but-only-to-people-who-are-used-to-western-music/?sh=175302e77dc8'}
-- {name: 'How music makes you feel may depend less on your brain than scientists believed', url: 'https://www.inverse.com/mind-body/music-in-a-major-key'}
+- {name: 'How music makes you feel may depend less on your brain than scientists believed - Inverse', url: 'https://www.inverse.com/mind-body/music-in-a-major-key'}
+- (name: 'Dur-Akkorde klingen nicht für alle fröhlich - Science ORF.at', url: 'https://science.orf.at/stories/3213856/'}
+- {name: 'Are minor chords sad and major chords happy? Not if you live in a remote Papua New Guinea village - ZME Science', url: 'https://www.zmescience.com/science/news-science/are-minor-chords-sad-and-major-chords-happy-not-if-you-live-in-a-remote-papua-new-guinea-village/'}
+- {name: 'Featured on Sister Doctor Squared podcast episode 19: Aah the feels... The link between music & emotion', url: 'https://sisterdoctorsquared.com/2022/09/21/musicandemotion/'}
 
 
 index:
 - {name: 'What makes a song sound happy? It depends on your culture, study finds - The Guardian', url: 'https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds'}
 - {name: 'Culture influences whether a musical note is perceived as happy or sad, study finds - The Independent', url: 'https://uk.news.yahoo.com/culture-influences-whether-musical-note-095731132.html?guccounter=1&guce_referrer=aHR0cHM6Ly9wbG9zLmFsdG1ldHJpYy5jb20vZGV0YWlscy8xMzA0MjM2NTMvbmV3cw&guce_referrer_sig=AQAAALKBQdKSoD9tUyEi1YhwoAwtuQBTFva5yXsaAgr6P5Ho1yjmYeVUNZnkGwlzhuZqsQDnNq5vEf9Od7Bf6RgV0ypgpRCd-JWU7MQbDKN9rMBgycsLNKdNhgVxlzNBZQjB3xWUCtBD8KmaIXlP8rlhLeBgNt--CAVVWsUy68a9ztyU'}
 - {name: 'Major Chords Sound Happy, But Only To People Who Are Used To Western Music - Forbes', url: 'https://www.forbes.com/sites/evaamsen/2022/06/29/major-chords-sound-happy-but-only-to-people-who-are-used-to-western-music/?sh=175302e77dc8'}
-- {name: 'How music makes you feel may depend less on your brain than scientists believed', url: 'https://www.inverse.com/mind-body/music-in-a-major-key'}
+- {name: 'How music makes you feel may depend less on your brain than scientists believed - Inverse', url: 'https://www.inverse.com/mind-body/music-in-a-major-key'}
+- (name: 'Dur-Akkorde klingen nicht für alle fröhlich - Science ORF.at', url: 'https://science.orf.at/stories/3213856/'}
+- {name: 'Are minor chords sad and major chords happy? Not if you live in a remote Papua New Guinea village - ZME Science', url: 'https://www.zmescience.com/science/news-science/are-minor-chords-sad-and-major-chords-happy-not-if-you-live-in-a-remote-papua-new-guinea-village/'}
+- {name: 'Featured on Sister Doctor Squared podcast episode 19: Aah the feels... The link between music & emotion', url: 'https://sisterdoctorsquared.com/2022/09/21/musicandemotion/'}
