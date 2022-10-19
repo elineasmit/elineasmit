@@ -17,5 +17,8 @@ As a pianist, I debuted with the second piano concerto of Shostakovich in Antwer
 
 I picked up a new hobby in Australia, so when I am not focusing on research, I like to race my bike.
 
-I am always interested in new thoughts/ideas/collaborations, so feel free to contact me!
+I am always interested in new thoughts/ideas/collaborations, so feel free to get in touch!
+
+
+Photo by Ian Wrightson Photography.
 
