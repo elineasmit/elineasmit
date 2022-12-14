@@ -1,5 +1,7 @@
 featured:
 - {name: 'Escudero, P., Diaz, C.J., Hajek, J., Wigglesworth, G., & Smit, E.A. (2020). Probability of heritage language use at a supportive early childhood setting in Australia. Frontiers in Education, 5, 93', url: 'http://doi.org/10.3389/feduc.2020.00093'}
+- {name: 'Escudero, P., Smit, E. A., & Angwin, A. (2022). Investigating orthographic versus auditory cross-situational word learning with online and lab-based research. Language Learning.', url: 'https://doi.org/10.1111/lang.12550'}
+- {name: 'Escudero, P., Smit, E.A., Mulak, K.E. (2022). Explaining L2 lexical learning in multiple scenarios: Cross-situational word learning in L1 Mandarin L2 English speakers. Brain Sciences, 12(12), 1618', url: 'https://doi.org/10.3390/brainsci12121618'}
 - {name: 'Short, A., Cheung, G., Milne, A.J., & Smit, E.A. (2022). Audio analysis reveals mutual influence of clients’ and therapists’ vocal timbres in Guided Imagery and Music sessions. The Arts in 	Psychotherapy, 80: 101937', url:  'https://doi.org/10.1016/j.aip.2022.101937'}
 - {name: 'Smit, E.A. (2021). Perception of affect in unfamiliar music (Doctoral dissertation). Western Sydney University, Sydney, Australia', url: 'https://researchdirect.westernsydney.edu.au/islandora/object/uws:59567/'}
 - {name: 'Smit, E.A., Dobrowohl, F.A., Schaal, N.K., Milne, A.J., & Herff, S.A. (2020). Perceived emotions of harmonic cadences. Music & Science, 3(1), 1-13', url: 'https://doi.org/10.1177/2059204320938635'}
@@ -11,12 +13,13 @@ featured:
 - {name: 'Smit, E.A., & Sadakata, M. (2018). The effect of handedness on spatial and motor representation of 	pitch patterns in pianists. PLoS ONE, 13(5), e0195831', url: 'https://doi.org/10.1371/journal.pone.0195831'}
 
 - {name: 'Baptiste, L., Yamarak, L., Sarvasy, H., Dom, L.Z., Dono, I., Gipe, G.J., Girip, S., Laki, J., Laveil, M., Nasale, P., Ögate, D., Ögate, L., Samof, K., Smit, E.A., & Yakam, L.T. (2022). PNG Voices:	Listening to Australia’s closest neighbour: Papua New Guinean perspectives on Australia and the world. Whitlam Institute, Western Sydney University', url: 'https://www.whitlam.org/publications/pngvoices'}
-- {name: 'Escudero, P., Smit, E. A., & Angwin, A. (2021, February 9). Investigating orthographic versus auditory cross-situational word learning with online and lab-based research', url: 'https://doi.org/10.31234/osf.io/tpn5e'}
 - {name: 'Milne, A. J., Smit, E. A., Sarvasy, H., & Dean, R. (2022, April 23). Evidence for a universal association of auditory roughness with musical dissonance', url: 'https://doi.org/10.31234/osf.io/vtx2c'}
 
 
 index:
 - {name: 'Escudero, P., Diaz, C.J., Hajek, J., Wigglesworth, G., & Smit, E.A. (2020). Probability of heritage language use at a supportive early childhood setting in Australia. Frontiers in Education, 5, 93', url: 'http://doi.org/10.3389/feduc.2020.00093'}
+- {name: 'Escudero, P., Smit, E. A., & Angwin, A. (2022). Investigating orthographic versus auditory cross-situational word learning with online and lab-based research. Language Learning.', url: 'https://doi.org/10.1111/lang.12550'}
+- {name: 'Escudero, P., Smit, E.A., Mulak, K.E. (2022). Explaining L2 lexical learning in multiple scenarios: Cross-situational word learning in L1 Mandarin L2 English speakers. Brain Sciences, 12(12), 1618', url: 'https://doi.org/10.3390/brainsci12121618'}
 - {name: 'Short, A., Cheung, G., Milne, A.J., & Smit, E.A. (2022). Audio analysis reveals mutual influence of clients’ and therapists’ vocal timbres in Guided Imagery and Music sessions. The Arts in 	Psychotherapy, 80: 101937', url:  'https://doi.org/10.1016/j.aip.2022.101937'}
 - {name: 'Smit, E.A. (2021). Perception of affect in unfamiliar music (Doctoral dissertation). Western Sydney University, Sydney, Australia', url: 'https://researchdirect.westernsydney.edu.au/islandora/object/uws:59567/'}
 - {name: 'Smit, E.A., Dobrowohl, F.A., Schaal, N.K., Milne, A.J., & Herff, S.A. (2020). Perceived emotions of harmonic cadences. Music & Science, 3(1), 1-13', url: 'https://doi.org/10.1177/2059204320938635'}
@@ -27,6 +30,6 @@ index:
 - {name: 'Smit, E.A., Milne, A.J., Sarvasy, H., & Dean, R.T. (2022). Emotional responses in Papua	New Guinea	show negligible evidence for a universal effect of major versus minor music. PLoS ONE, 	17(6): e0269597', url: 'https://doi.org/10.1371/journal.pone.0269597'}
 - {name: 'Smit, E.A., & Sadakata, M. (2018). The effect of handedness on spatial and motor representation of 	pitch patterns in pianists. PLoS ONE, 13(5), e0195831', url: 'https://doi.org/10.1371/journal.pone.0195831'}
 
+
 - {name: 'Baptiste, L., Yamarak, L., Sarvasy, H., Dom, L.Z., Dono, I., Gipe, G.J., Girip, S., Laki, J., Laveil, M., Nasale, P., Ögate, D., Ögate, L., Samof, K., Smit, E.A., & Yakam, L.T. (2022). PNG Voices:	Listening to Australia’s closest neighbour: Papua New Guinean perspectives on Australia and the world. Whitlam Institute, Western Sydney University', url: 'https://www.whitlam.org/publications/pngvoices'}
-- {name: 'Escudero, P., Smit, E. A., & Angwin, A. (2021, February 9). Investigating orthographic versus auditory cross-situational word learning with online and lab-based research', url: 'https://doi.org/10.31234/osf.io/tpn5e'}
 - {name: 'Milne, A. J., Smit, E. A., Sarvasy, H., & Dean, R. (2022, April 23). Evidence for a universal association of auditory roughness with musical dissonance', url: 'https://doi.org/10.31234/osf.io/vtx2c'}
