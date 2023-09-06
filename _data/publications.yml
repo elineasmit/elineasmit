@@ -1,4 +1,6 @@
 featured:
+- {name: 'Smit, E. A., Rathcke, T., & Keller, P. E. (2023). Tuning the musical mind: Next steps in solving the puzzle of the cognitive transfer of musical training to language and back. Music & Science, 6', url: 'https://doi.org/10.1177/20592043231175251'}
+- {name: 'Rossi, M., Smit, E.A., & Rathcke, T. (2023). Rhythm deficits in developmental dyslexia: Evidence from Italian. Proceedings of the 20th International Congress of Phonetics Sciences, Prague, Czech Republic 2023', url: 'https://www.researchgate.net/profile/Marina_Rossi/publication/371020587_RHYTHM_DEFICITS_IN_DEVELOPMENTAL_DYSLEXIA_EVIDENCE_FROM_ITALIAN/links/646f5a445d94875e7c225223/RHYTHM-DEFICITS-IN-DEVELOPMENTAL-DYSLEXIA-EVIDENCE-FROM-ITALIAN.pdf'}
 - {name: 'Escudero, P., Diaz, C.J., Hajek, J., Wigglesworth, G., & Smit, E.A. (2020). Probability of heritage language use at a supportive early childhood setting in Australia. Frontiers in Education, 5, 93', url: 'http://doi.org/10.3389/feduc.2020.00093'}
 - {name: 'Escudero, P., Smit, E. A., & Angwin, A. (2022). Investigating orthographic versus auditory cross-situational word learning with online and lab-based research. Language Learning.', url: 'https://doi.org/10.1111/lang.12550'}
 - {name: 'Escudero, P., Smit, E.A., Mulak, K.E. (2022). Explaining L2 lexical learning in multiple scenarios: Cross-situational word learning in L1 Mandarin L2 English speakers. Brain Sciences, 12(12), 1618', url: 'https://doi.org/10.3390/brainsci12121618'}
@@ -17,6 +19,8 @@ featured:
 
 
 index:
+- {name: 'Smit, E. A., Rathcke, T., & Keller, P. E. (2023). Tuning the musical mind: Next steps in solving the puzzle of the cognitive transfer of musical training to language and back. Music & Science, 6', url: 'https://doi.org/10.1177/20592043231175251'}
+- {name: 'Rossi, M., Smit, E.A., & Rathcke, T. (2023). Rhythm deficits in developmental dyslexia: Evidence from Italian. Proceedings of the 20th International Congress of Phonetics Sciences, Prague, Czech Republic 2023', url: 'https://www.researchgate.net/profile/Marina_Rossi/publication/371020587_RHYTHM_DEFICITS_IN_DEVELOPMENTAL_DYSLEXIA_EVIDENCE_FROM_ITALIAN/links/646f5a445d94875e7c225223/RHYTHM-DEFICITS-IN-DEVELOPMENTAL-DYSLEXIA-EVIDENCE-FROM-ITALIAN.pdf'}
 - {name: 'Escudero, P., Diaz, C.J., Hajek, J., Wigglesworth, G., & Smit, E.A. (2020). Probability of heritage language use at a supportive early childhood setting in Australia. Frontiers in Education, 5, 93', url: 'http://doi.org/10.3389/feduc.2020.00093'}
 - {name: 'Escudero, P., Smit, E. A., & Angwin, A. (2022). Investigating orthographic versus auditory cross-situational word learning with online and lab-based research. Language Learning.', url: 'https://doi.org/10.1111/lang.12550'}
 - {name: 'Escudero, P., Smit, E.A., Mulak, K.E. (2022). Explaining L2 lexical learning in multiple scenarios: Cross-situational word learning in L1 Mandarin L2 English speakers. Brain Sciences, 12(12), 1618', url: 'https://doi.org/10.3390/brainsci12121618'}
