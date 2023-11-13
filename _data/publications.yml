@@ -1,4 +1,5 @@
 featured:
+- {name: 'Milne, A. J., Smit, E. A., Sarvasy, H. S., & Dean, R. T. (2023). Evidence for a universal association of auditory roughness with musical stability. PLOS One, 18(9): e0291642', url: 'https://doi.org/10.1371/journal.pone.0291642'}
 - {name: 'Smit, E. A., Rathcke, T., & Keller, P. E. (2023). Tuning the musical mind: Next steps in solving the puzzle of the cognitive transfer of musical training to language and back. Music & Science, 6', url: 'https://doi.org/10.1177/20592043231175251'}
 - {name: 'Rossi, M., Smit, E.A., & Rathcke, T. (2023). Rhythm deficits in developmental dyslexia: Evidence from Italian. Proceedings of the 20th International Congress of Phonetics Sciences, Prague, Czech Republic 2023', url: 'https://www.researchgate.net/profile/Marina_Rossi/publication/371020587_RHYTHM_DEFICITS_IN_DEVELOPMENTAL_DYSLEXIA_EVIDENCE_FROM_ITALIAN/links/646f5a445d94875e7c225223/RHYTHM-DEFICITS-IN-DEVELOPMENTAL-DYSLEXIA-EVIDENCE-FROM-ITALIAN.pdf'}
 - {name: 'Escudero, P., Diaz, C.J., Hajek, J., Wigglesworth, G., & Smit, E.A. (2020). Probability of heritage language use at a supportive early childhood setting in Australia. Frontiers in Education, 5, 93', url: 'http://doi.org/10.3389/feduc.2020.00093'}
@@ -15,10 +16,10 @@ featured:
 - {name: 'Smit, E.A., & Sadakata, M. (2018). The effect of handedness on spatial and motor representation of 	pitch patterns in pianists. PLoS ONE, 13(5), e0195831', url: 'https://doi.org/10.1371/journal.pone.0195831'}
 
 - {name: 'Baptiste, L., Yamarak, L., Sarvasy, H., Dom, L.Z., Dono, I., Gipe, G.J., Girip, S., Laki, J., Laveil, M., Nasale, P., Ögate, D., Ögate, L., Samof, K., Smit, E.A., & Yakam, L.T. (2022). PNG Voices:	Listening to Australia’s closest neighbour: Papua New Guinean perspectives on Australia and the world. Whitlam Institute, Western Sydney University', url: 'https://www.whitlam.org/publications/pngvoices'}
-- {name: 'Milne, A. J., Smit, E. A., Sarvasy, H., & Dean, R. (2022, April 23). Evidence for a universal association of auditory roughness with musical dissonance', url: 'https://doi.org/10.31234/osf.io/vtx2c'}
 
 
 index:
+- {name: 'Milne, A. J., Smit, E. A., Sarvasy, H. S., & Dean, R. T. (2023). Evidence for a universal association of auditory roughness with musical stability. PLOS One, 18(9): e0291642', url: 'https://doi.org/10.1371/journal.pone.0291642'}
 - {name: 'Smit, E. A., Rathcke, T., & Keller, P. E. (2023). Tuning the musical mind: Next steps in solving the puzzle of the cognitive transfer of musical training to language and back. Music & Science, 6', url: 'https://doi.org/10.1177/20592043231175251'}
 - {name: 'Rossi, M., Smit, E.A., & Rathcke, T. (2023). Rhythm deficits in developmental dyslexia: Evidence from Italian. Proceedings of the 20th International Congress of Phonetics Sciences, Prague, Czech Republic 2023', url: 'https://www.researchgate.net/profile/Marina_Rossi/publication/371020587_RHYTHM_DEFICITS_IN_DEVELOPMENTAL_DYSLEXIA_EVIDENCE_FROM_ITALIAN/links/646f5a445d94875e7c225223/RHYTHM-DEFICITS-IN-DEVELOPMENTAL-DYSLEXIA-EVIDENCE-FROM-ITALIAN.pdf'}
 - {name: 'Escudero, P., Diaz, C.J., Hajek, J., Wigglesworth, G., & Smit, E.A. (2020). Probability of heritage language use at a supportive early childhood setting in Australia. Frontiers in Education, 5, 93', url: 'http://doi.org/10.3389/feduc.2020.00093'}
@@ -36,4 +37,3 @@ index:
 
 
 - {name: 'Baptiste, L., Yamarak, L., Sarvasy, H., Dom, L.Z., Dono, I., Gipe, G.J., Girip, S., Laki, J., Laveil, M., Nasale, P., Ögate, D., Ögate, L., Samof, K., Smit, E.A., & Yakam, L.T. (2022). PNG Voices:	Listening to Australia’s closest neighbour: Papua New Guinean perspectives on Australia and the world. Whitlam Institute, Western Sydney University', url: 'https://www.whitlam.org/publications/pngvoices'}
-- {name: 'Milne, A. J., Smit, E. A., Sarvasy, H., & Dean, R. (2022, April 23). Evidence for a universal association of auditory roughness with musical dissonance', url: 'https://doi.org/10.31234/osf.io/vtx2c'}
