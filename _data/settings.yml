@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 about:
-- {name: 'About me', title: 'Postdoctoral Researcher', department: 'Department of Linguistics', institution: 'University of Konstanz', email: 'eline.smit@uni-konstanz.de', image: 'assets/img/contact.jpg'}
+- {name: 'About me', title: 'Data analist', institution: 'Netherlands Court of Audit', email: 'e.smit@rekenkamer.nl', image: 'assets/img/contact.jpg'}
 
 media:
 - {name: 'Interview', url: 'vector-calculus'}
@@ -19,4 +19,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/dr-eline-a-smit-80a21263/'}
 
 contacts:
-- {name: 'Dr. Eline A. Smit', title: 'Postdoctoral Research Fellow', department: 'Department of Linguistics', institution: 'University of Konstanz', institution_address: 'Universitätsstraße 10, 78464 Konstanz, Germany', email: 'eline.smit@uni-konstanz.de', image: 'assets/img/pianoeline.jpg'}
+- {name: 'Dr. Eline A. Smit', title: 'Data analist', institution: 'Netherlands Court of Audit', institution_address: 'The Hague', email: 'e.smit@rekenkamer.nl', image: 'assets/img/pianoeline.jpg'}
