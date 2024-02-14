@@ -3,7 +3,9 @@ layout: about
 title: "About"
 ---
 
-I am currently working as a postdoctoral research fellow at the Linguistics Department of the University of Konstanz where I work with Prof. Tamara Rathcke on language rhythm and potential role of musical abilities in perception and learning of language and vice versa. I am also an honorary research fellow at the MARCS Institute for Brain, Behaviour and Development.
+I am currently working as a data-analist at the Netherlands Court of Audit (Algemene Rekenkamer).
+
+Before, I was working as a postdoctoral research fellow at the Linguistics Department of the University of Konstanz where I work with Prof. Tamara Rathcke on language rhythm and potential role of musical abilities in perception and learning of language and vice versa. I am also an honorary research fellow at the MARCS Institute for Brain, Behaviour and Development.
 
 Although I have always had an interest in music (as a pianist) and in language (I studied all offered languages throughout high school and university), my interest in research was sparked during my undergraduate degree in the Netherlands, where I attended a cognitive science class and realised that there is another world related to music that I had not yet explored. As a classical pianist, my degree was built around music performance and musicology courses, but courses in psychology, cognitive science and psycholinguistics showed me how a psychological and cognitive approach to music could provide a whole new perspective to music making. My enthusiasm was complete as soon as I realised there was the potential to combine my interest in music and language into a research career.
 
