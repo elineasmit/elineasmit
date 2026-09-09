@@ -3,7 +3,7 @@ layout: about
 title: "About"
 ---
 
-I am currently working as a data-analist at the Netherlands Court of Audit (Algemene Rekenkamer).
+I am currently working as a data scientist/quantitative researcher in the public sector.
 
 Before, I was working as a postdoctoral research fellow at the Linguistics Department of the University of Konstanz where I worked with Prof. Tamara Rathcke on language rhythm and potential role of musical abilities in perception and learning of language and vice versa. I was also an honorary research fellow at the MARCS Institute for Brain, Behaviour and Development.
 
@@ -17,7 +17,7 @@ Before moving to Australia, I completed my BA in Arts & Humanities magna cum lau
 
 As a pianist, I debuted with the second piano concerto of Shostakovich in Antwerp with the Flemish Symphonic Orchestra.
 
-I picked up a new hobby in Australia, so when I am not focusing on research, I like to race my bike.
+I picked up a new hobby in Australia, so when I am not focusing on research, I like to ride my bike.
 
 I am always interested in new thoughts/ideas/collaborations, so feel free to get in touch!
 
