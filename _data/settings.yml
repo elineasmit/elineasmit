@@ -3,7 +3,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'media', url: '/media'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+#- {name: 'contact', url: '/contact'}
 
 about:
 - {name: 'About me', title: 'Data scientist', image: 'assets/img/contact.jpg'}
