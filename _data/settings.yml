@@ -14,7 +14,6 @@ media:
 - {name: 'Radio', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/elineasmit'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/dr-eline-a-smit-80a21263/'}
 
 contacts:
